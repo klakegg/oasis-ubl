@@ -8,10 +8,10 @@ export label=$3
 
 # Configuration parameters
 
-export title="UBL 2.3"
-export package=UBL-2.3
+export title="UBL 2.3 OMD"
+export package=UBL-2.3-OMD
 export UBLversion=2.3
-export UBLstage=cs02
+export UBLstage=csd01wd01
 export UBLprevStageVersion=2.3
 export UBLprevStage=csd05
 export UBLprevVersion=2.2
